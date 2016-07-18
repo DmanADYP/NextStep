@@ -65,22 +65,6 @@ namespace ConsoleApplication3
             }
 
 
-
-            //for (int ii = 0; ii < sa.Length ; ii++)
-            //{
-            //    if (o[ii] is string)
-            //    {
-
-            //        sa[ii] = Convert.ToString(o[ii]);
-
-            //    }
-            //    //if (o[ii] is int)
-            //    //{
-
-            //    //      ia[ii] = Convert.ToInt32(o[ii]);
-            //    //}
-
-            //}
         }
 
     }
